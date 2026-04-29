@@ -1,5 +1,6 @@
 streamlit
 streamlit-option-menu
+streamlit-lottie
+requests
 pandas
 plotly
-sqlite3
